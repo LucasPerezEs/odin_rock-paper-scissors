@@ -1,0 +1,1 @@
+Projecto para comenzar a trabajar con JavaScript cuyo objetivo es crear un minijuego simple de piedra papel o tijera.
